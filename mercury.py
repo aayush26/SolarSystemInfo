@@ -1,6 +1,6 @@
 from Tkinter import *
 
-root = Tk()
+root = Toplevel()
 
 root.title("Mercury")
 logo = PhotoImage(file="mercury.gif")
